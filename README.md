@@ -34,7 +34,7 @@ I'm a fresh M.Sc. Data Science graduate with hands-on experience in full-stack w
 Check out my pinned repositories below — they cover machine learning pipelines, data analysis notebooks, and full-stack apps.
 
 - **ML Projects** — End-to-end classification and prediction pipelines with model evaluation
-- **Data Analytics** — EDA and visualization notebooks, also published on [Kaggle](https://www.kaggle.com/vidhyawalke)
+- **Data Analytics** — EDA and visualization notebooks, also published on [Kaggle](https://www.kaggle.com/vidhyaw)
 - **MERN Apps** — Full-stack web applications built with MongoDB, Express, React, and Node.js
 
 ---
