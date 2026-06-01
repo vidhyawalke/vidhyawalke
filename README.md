@@ -11,7 +11,7 @@
   <a href="mailto:vidhya.walke.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-vidhya.walke.official@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/vidhyawalke">
+  <a href="https://www.kaggle.com/vidhyaw">
     <img src="https://img.shields.io/badge/Kaggle-vidhyawalke-20BEFF?style=flat&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://vidhyawalke.blogspot.com/">
