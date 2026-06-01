@@ -1,72 +1,84 @@
 <h1 align="center">Hi, I'm Vidhya Walke 👋</h1>
 
 <p align="center">
-  <b>Computer Science Graduate</b> • AI & Machine Learning Enthusiast • Goa, India
+  <b>M.Sc. Data Science Graduate</b> · MERN Stack Developer · Data Analytics Enthusiast · Goa, India
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/vidhyawalke">
+    <img src="https://img.shields.io/badge/LinkedIn-vidhyawalke-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vidhya.walke.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vidhya.walke.official@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/vidhyawalke">
+    <img src="https://img.shields.io/badge/Kaggle-vidhyawalke-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://vidhyawalke.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blog-vidhyawalke-FF5722?style=flat&logo=blogger&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-I am focused on building strong foundations in **Machine Learning and Data Science**.  
-I enjoy understanding how models work internally, analyzing data deeply, and applying intelligent systems to solve real-world problems.
-
-I believe in writing clean, structured, and readable code while continuously strengthening my problem-solving ability.
+I'm a fresh M.Sc. Data Science graduate with hands-on experience in full-stack web development and a strong passion for machine learning and data analytics. I enjoy building end-to-end systems — from training ML models to deploying responsive web applications — and I'm driven by the goal of solving real-world problems with clean, structured code.
 
 ---
 
-## Currently Building Expertise In
+## 🚀 What I Work With
 
-- Machine Learning fundamentals  
-- Data Structures & Algorithms  
-- Python for Data Science  
-- End-to-end ML project development  
+### 🧠 Data Science & Machine Learning
+`Python` · `NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `LightGBM` · `Power BI` · `MySQL` · `MongoDB`
 
----
+### 🌐 Full-Stack Web Development (MERN)
+`MongoDB` · `Express.js` · `React` · `Node.js` · `HTML` · `CSS` · `JavaScript`
 
-## 🛠 Technical Skills
-
-**Languages**  
-`Python`  • `JavaScript`
-
-**Data Science & ML**  
-`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn`
-
-**Web Development**  
-`HTML` • `CSS` • `React` • `Node.js`
-
-**Databases**  
-`MySQL` • `MongoDB`
-
-**Tools & Platforms**  
-`Git` • `GitHub` • `VS Code`
+### 🛠 Tools & Platforms
+`Git` · `GitHub` · `VS Code` · `Kaggle` · `Jupyter Notebook`
 
 ---
 
-## 🎯 Focus
+## 📌 Featured Work
 
-Actively building real-world ML projects and strengthening algorithmic thinking to transition into AI/ML and Data Science roles.
+> ⭐ **Check out my pinned repositories below** — they showcase my best projects across machine learning, data analytics, and full-stack development.
+
+Some highlights:
+- 🔬 **ML Projects** — End-to-end classification and prediction pipelines with model evaluation and optimization
+- 📊 **Data Analytics** — Exploratory data analysis and visualization notebooks (also on [Kaggle](https://www.kaggle.com/vidhyawalke))
+- 💻 **MERN Apps** — Full-stack web applications built with MongoDB, Express, React, and Node.js
 
 ---
-📝 **Blog Website:** https://vidhyawalke.blogspot.com/ 
+
+## 🎯 Currently Building
+
+- Real-world ML and data analytics projects
+- Full-stack applications using the MERN stack
+- Problem-solving skills through Data Structures & Algorithms
+
 ---
 
 ## 🤝 Open To
 
-- AI/ML collaborations  
-- Data-driven projects  
-- Open-source contributions  
-- Entry-level AI/ML & Data roles  
+- Entry-level roles in **Data Analytics**, **Data Science**, or **Full-Stack Development**
+- AI/ML and data-driven collaborations
+- Open-source contributions
+- Freelance or remote opportunities
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-📌 LinkedIn: https://linkedin.com/in/vidhyawalke  
-📧 Email: vidhya.walke.official@gmail.com
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [linkedin.com/in/vidhyawalke](https://linkedin.com/in/vidhyawalke) |
+| 📧 Email | [vidhya.walke.official@gmail.com](mailto:vidhya.walke.official@gmail.com) |
+| 📊 Kaggle | [kaggle.com/vidhyawalke](https://www.kaggle.com/vidhyawalke) |
+| 📝 Blog | [vidhyawalke.blogspot.com](https://vidhyawalke.blogspot.com/) |
 
 ---
 
 <p align="center">
-  <i>“Building today to become better than yesterday.”</i>
+  <i>"Building today to become better than yesterday."</i>
 </p>
