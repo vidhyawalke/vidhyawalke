@@ -15,7 +15,7 @@
       }
       @keyframes float-medium {
         0%, 100% { transform: translateX(0px); opacity: 0.7; }
-        50% { transform: translateX(-250px); opacity: 1.1; }
+        50% { transform: translateX(-200px); opacity: 1.1; }
       }
       @keyframes float-fast {
         0%, 100% { transform: translateX(0px); opacity: 0.9; }
@@ -110,72 +110,80 @@
 </div>
 ```
 
-```aura width=120 height=44 link="https://linkedin.com/in/vidhyawalke" inline align=center
-<SocialMediaButton
-  icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/linkedin-icon.png"
-  text="LinkedIn"
-  backgroundColor="#000000"
-  width={120}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#818cf8' },
-    { offset: '30%', color: '#000000' },
-    { offset: '60%', color: '#9298f8' },
-    { offset: '80%', color: '#000000' },
-    { offset: '100%', color: '#7479f5' },
-  ]}
-/>
+```aura width=132 height=44 link="https://linkedin.com/in/vidhyawalke" inline align=center
+<div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', padding: '0 6px' }}>
+  <SocialMediaButton
+    icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/linkedin-icon.png"
+    text="LinkedIn"
+    backgroundColor="#000000"
+    width={120}
+    height={44}
+    gradientStops={[
+      { offset: '0%', color: '#818cf8' },
+      { offset: '30%', color: '#000000' },
+      { offset: '60%', color: '#9298f8' },
+      { offset: '80%', color: '#000000' },
+      { offset: '100%', color: '#7479f5' },
+    ]}
+  />
+</div>
 ```
 
-```aura width=110 height=44 link="mailto:vidhya.walke.official@gmail.com" inline align=center
-<SocialMediaButton
-  icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/gmail-icon.svg"
-  text="Email"
-  backgroundColor="#000000"
-  width={110}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#d855f7' },
-    { offset: '30%', color: '#000000' },
-    { offset: '60%', color: '#b557e8' },
-    { offset: '80%', color: '#000000' },
-    { offset: '100%', color: '#cc6ef9' },
-  ]}
-/>
+```aura width=122 height=44 link="mailto:vidhya.walke.official@gmail.com" inline align=center
+<div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', padding: '0 6px' }}>
+  <SocialMediaButton
+    icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/gmail-icon.svg"
+    text="Email"
+    backgroundColor="#000000"
+    width={110}
+    height={44}
+    gradientStops={[
+      { offset: '0%', color: '#d855f7' },
+      { offset: '30%', color: '#000000' },
+      { offset: '60%', color: '#b557e8' },
+      { offset: '80%', color: '#000000' },
+      { offset: '100%', color: '#cc6ef9' },
+    ]}
+  />
+</div>
 ```
 
-```aura width=120 height=44 link="https://www.kaggle.com/vidhyaw" inline align=center
-<SocialMediaButton
-  icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/kaggle-icon.svg"
-  text="Kaggle"
-  backgroundColor="#000000"
-  width={120}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#5dc8f9' },
-    { offset: '30%', color: '#000000' },
-    { offset: '60%', color: '#7dd3fc' },
-    { offset: '80%', color: '#000000' },
-    { offset: '100%', color: '#4ec3f8' },
-  ]}
-/>
+```aura width=132 height=44 link="https://www.kaggle.com/vidhyaw" inline align=center
+<div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', padding: '0 6px' }}>
+  <SocialMediaButton
+    icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/kaggle-icon.svg"
+    text="Kaggle"
+    backgroundColor="#000000"
+    width={120}
+    height={44}
+    gradientStops={[
+      { offset: '0%', color: '#5dc8f9' },
+      { offset: '30%', color: '#000000' },
+      { offset: '60%', color: '#7dd3fc' },
+      { offset: '80%', color: '#000000' },
+      { offset: '100%', color: '#4ec3f8' },
+    ]}
+  />
+</div>
 ```
 
-```aura width=110 height=44 link="https://vidhyawalke.blogspot.com/" inline align=center
-<SocialMediaButton
-  icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/blogger-icon.svg"
-  text="Blog"
-  backgroundColor="#000000"
-  width={110}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#f472b6' },
-    { offset: '30%', color: '#000000' },
-    { offset: '60%', color: '#fb7eb8' },
-    { offset: '80%', color: '#000000' },
-    { offset: '100%', color: '#f06aae' },
-  ]}
-/>
+```aura width=122 height=44 link="https://vidhyawalke.blogspot.com/" inline align=center
+<div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', padding: '0 6px' }}>
+  <SocialMediaButton
+    icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/blogger-icon.svg"
+    text="Blog"
+    backgroundColor="#000000"
+    width={110}
+    height={44}
+    gradientStops={[
+      { offset: '0%', color: '#f472b6' },
+      { offset: '30%', color: '#000000' },
+      { offset: '60%', color: '#fb7eb8' },
+      { offset: '80%', color: '#000000' },
+      { offset: '100%', color: '#f06aae' },
+    ]}
+  />
+</div>
 ```
 
 ---
