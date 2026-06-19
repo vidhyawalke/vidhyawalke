@@ -8,7 +8,9 @@
 
 ## About Me
 
-I'm a fresh M.Sc. Data Science graduate with hands-on experience in full-stack web development. I enjoy building things end to end, from training ML models to shipping web apps, and I care about writing clean code that holds up in the real world.
+I recently finished my M.Sc. in Data Science. Along the way, I fell in love with full-stack web development—specifically building clean, end-to-end apps using the MERN stack. I enjoy bridging the gap between data-driven machine learning models and functional, user-facing applications.
+
+I'm not interested in writing code that only works on my local machine; I like building things that actually get shipped and work. Right now, I'm focused on leveling up my backend skills, sharpening my algorithms, and looking for my first professional role in data analytics, data science, or full-stack engineering.
 
 ***
 
