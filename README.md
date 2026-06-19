@@ -8,9 +8,9 @@
 
 ## About Me
 
-I recently finished my M.Sc. in Data Science. Along the way, I fell in love with full-stack web development—specifically building clean, end-to-end apps using the MERN stack. I enjoy bridging the gap between data-driven machine learning models and functional, user-facing applications.
+I recently completed my M.Sc. in Data Science. I build web applications using the MERN stack, and I enjoy integrating machine learning models with functional user interfaces.
 
-I'm not interested in writing code that only works on my local machine; I like building things that actually get shipped and work. Right now, I'm focused on leveling up my backend skills, sharpening my algorithms, and looking for my first professional role in data analytics, data science, or full-stack engineering.
+Right now, I am focused on backend development, data structures, and algorithms. I am looking for my first professional role in data analytics, data science, or software engineering. Check out my pinned repositories below to see my work.
 
 ***
 
@@ -29,11 +29,11 @@ I'm not interested in writing code that only works on my local machine; I like b
 
 ## Featured Work
 
-Check out my pinned repositories below — they cover machine learning pipelines, data analysis notebooks, and full-stack apps.
+Check out my pinned repositories below; they cover machine learning pipelines, data analysis notebooks, and full-stack apps.
 
-* **ML Projects** — End-to-end classification and prediction pipelines with model evaluation
-* **Data Analytics** — EDA and visualization notebooks, also published on [Kaggle](https://www.kaggle.com/vidhyaw)
-* **MERN Apps** — Full-stack web applications built with MongoDB, Express, React, and Node.js
+* **ML Projects**: Classification and prediction pipelines with model evaluation
+* **Data Analytics**: EDA and visualization notebooks, also published on [Kaggle](https://www.kaggle.com/vidhyaw)
+* **MERN Apps**: Full-stack web applications built with MongoDB, Express, React, and Node.js
 
 ***
 
