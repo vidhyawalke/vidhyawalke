@@ -104,7 +104,7 @@
     </div>
     
     <div style={{ display: 'flex', fontSize: 14, color: 'rgba(180,165,255,0.85)', fontWeight: 400, letterSpacing: '0.3px' }}>
-      M.Sc. Data Science Graduate &bull; MERN Stack Developer &bull; Data Analytics Enthusiast
+      BCA & M.Sc. Data Science Graduate &bull; MERN Stack Developer &bull; Data Analytics Enthusiast
     </div>
   </div>
 </div>
@@ -190,7 +190,7 @@
 
 ## About Me
 
-I recently completed my M.Sc. in Data Science. I build web applications using the MERN stack, and I enjoy integrating machine learning models with functional user interfaces.
+I hold a BCA and recently completed my M.Sc. in Data Science. I build web applications using the MERN stack, and I enjoy integrating machine learning models with functional user interfaces.
 
 Right now, I am focused on backend development, data structures, and algorithms. Check out my pinned repositories below to see my work.
 
