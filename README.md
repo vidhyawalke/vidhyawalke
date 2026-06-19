@@ -10,7 +10,7 @@
 
 I recently completed my M.Sc. in Data Science. I build web applications using the MERN stack, and I enjoy integrating machine learning models with functional user interfaces.
 
-Right now, I am focused on backend development, data structures, and algorithms. I am looking for my first professional role in data analytics, data science, or software engineering. Check out my pinned repositories below to see my work.
+Right now, I am focused on backend development, data structures, and algorithms. Check out my pinned repositories below to see my work.
 
 ***
 
