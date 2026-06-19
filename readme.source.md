@@ -97,7 +97,7 @@
     <ellipse id="glow-8" cx="590" cy="200" rx="150" ry="100" fill="url(#g8)" />
   </svg>
 
-  {/* Center/Info: Name, Bio, Stats and Tags (No avatar picture container) */}
+  {/* Center/Info: Name and Bio only (No stats or tags strip) */}
   <div style={{ display: 'flex', flexDirection: 'column', gap: 6, flexGrow: 1, zIndex: 10 }}>
     <div style={{ display: 'flex', fontSize: 32, fontWeight: 800, color: '#ffffff', letterSpacing: '-1px', lineHeight: 1 }}>
       Vidhya Walke
@@ -105,29 +105,6 @@
     
     <div style={{ display: 'flex', fontSize: 14, color: 'rgba(180,165,255,0.85)', fontWeight: 400, letterSpacing: '0.3px' }}>
       M.Sc. Data Science Graduate &bull; MERN Stack Developer &bull; Data Analytics Enthusiast
-    </div>
-
-    {/* Elegant compact stats and tags list */}
-    <div style={{ display: 'flex', alignItems: 'center', gap: 14, marginTop: 4 }}>
-      <div style={{ display: 'flex', gap: 8 }}>
-        <span style={{ fontSize: 12, color: '#a78bfa', fontWeight: 600 }}>{github.stats.totalRepos} Repos</span>
-        <span style={{ fontSize: 12, color: 'rgba(255,255,255,0.2)' }}>|</span>
-        <span style={{ fontSize: 12, color: '#60a5fa', fontWeight: 600 }}>{github.stats.totalStars} Stars</span>
-        <span style={{ fontSize: 12, color: 'rgba(255,255,255,0.2)' }}>|</span>
-        <span style={{ fontSize: 12, color: '#f59e0b', fontWeight: 600 }}>{github.stats.totalCommits} Commits</span>
-      </div>
-      
-      <div style={{ display: 'flex', gap: 6, marginLeft: 16 }}>
-        {['Python', 'React', 'SQL', 'MongoDB'].map(function(tag) {
-          return (
-            <div key={tag} style={{
-              display: 'flex', padding: '3px 8px', borderRadius: 12,
-              background: 'rgba(80,40,220,0.15)', border: '1px solid rgba(100,70,240,0.28)',
-              color: 'rgba(205,195,255,0.85)', fontSize: 10, fontWeight: 600,
-            }}>{tag}</div>
-          );
-        })}
-      </div>
     </div>
   </div>
 </div>
