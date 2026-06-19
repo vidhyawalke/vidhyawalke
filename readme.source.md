@@ -15,7 +15,7 @@
       }
       @keyframes float-medium {
         0%, 100% { transform: translateX(0px); opacity: 0.7; }
-        50% { transform: translateX(-200px); opacity: 1.1; }
+        50% { transform: translateX(-250px); opacity: 1.1; }
       }
       @keyframes float-fast {
         0%, 100% { transform: translateX(0px); opacity: 0.9; }
@@ -97,17 +97,7 @@
     <ellipse id="glow-8" cx="590" cy="200" rx="150" ry="100" fill="url(#g8)" />
   </svg>
 
-  {/* Left: Avatar with elegant glowing gradient border */}
-  <div style={{
-    width: 88, height: 88, borderRadius: 44,
-    background: 'linear-gradient(135deg, #6622ee, #0088ff)',
-    display: 'flex', alignItems: 'center', justifyContent: 'center',
-    marginRight: 24, zIndex: 10
-  }}>
-    <img src={github.user.avatarUrl || 'https://github.com/vidhyawalke.png'} width={80} height={80} style={{ borderRadius: 40 }} />
-  </div>
-
-  {/* Center/Info: Name, Bio, Stats and Tags */}
+  {/* Center/Info: Name, Bio, Stats and Tags (No avatar picture container) */}
   <div style={{ display: 'flex', flexDirection: 'column', gap: 6, flexGrow: 1, zIndex: 10 }}>
     <div style={{ display: 'flex', fontSize: 32, fontWeight: 800, color: '#ffffff', letterSpacing: '-1px', lineHeight: 1 }}>
       Vidhya Walke
