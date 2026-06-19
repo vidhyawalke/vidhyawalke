@@ -6,18 +6,54 @@
   border: '1px solid #30363d',
   padding: '0 24px'
 }}>
-  {/* Left: Avatar with elegant thin border */}
+  {/* Sleek top gradient accent line to add premium 'life' */}
+  <div style={{
+    position: 'absolute', top: 0, left: 0, width: '100%', height: 3,
+    background: 'linear-gradient(90deg, #6366f1, #a855f7, #3b82f6)'
+  }} />
+
+  {/* Soft, slow-pulsing background glow that looks alive but professional */}
+  <style>
+    {`
+      @keyframes soft-pulse {
+        0%, 100% { transform: translate(0px, 0px) scale(1); opacity: 0.6; }
+        50% { transform: translate(30px, -15px) scale(1.1); opacity: 0.85; }
+      }
+      #glow-bg {
+        animation: soft-pulse 20s ease-in-out infinite;
+      }
+    `}
+  </style>
+
+  <svg width="860" height="120" style={{ position: 'absolute', top: 0, left: 0, pointerEvents: 'none' }}>
+    <defs>
+      <radialGradient id="g1" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stopColor="rgba(99, 102, 241, 0.22)" />
+        <stop offset="50%" stopColor="rgba(168, 85, 247, 0.10)" />
+        <stop offset="100%" stopColor="rgba(168, 85, 247, 0)" />
+      </radialGradient>
+      <radialGradient id="g2" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stopColor="rgba(59, 130, 246, 0.15)" />
+        <stop offset="60%" stopColor="rgba(59, 130, 246, 0.06)" />
+        <stop offset="100%" stopColor="rgba(59, 130, 246, 0)" />
+      </radialGradient>
+    </defs>
+    <ellipse id="glow-bg" cx="720" cy="60" rx="260" ry="160" fill="url(#g1)" />
+    <ellipse cx="480" cy="70" rx="180" ry="110" fill="url(#g2)" />
+  </svg>
+
+  {/* Left: Avatar with elegant purple border */}
   <div style={{
     width: 64, height: 64, borderRadius: 32,
-    border: '2px solid #30363d',
+    border: '2px solid rgba(168, 85, 247, 0.4)',
     display: 'flex', alignItems: 'center', justifyContent: 'center',
-    marginRight: 20
+    marginRight: 20, zIndex: 10
   }}>
     <img src={github.user.avatarUrl || 'https://github.com/vidhyawalke.png'} width={58} height={58} style={{ borderRadius: 29 }} />
   </div>
 
   {/* Center/Info: Name, Bio, and Stats */}
-  <div style={{ display: 'flex', flexDirection: 'column', gap: 4, flexGrow: 1 }}>
+  <div style={{ display: 'flex', flexDirection: 'column', gap: 4, flexGrow: 1, zIndex: 10 }}>
     <div style={{ display: 'flex', alignItems: 'baseline', gap: 12 }}>
       <span style={{ fontSize: 24, fontWeight: 700, color: '#ffffff', letterSpacing: '-0.5px' }}>
         Vidhya Walke
@@ -42,7 +78,7 @@
   </div>
 
   {/* Right: Clean, professional tags (Python, React, SQL) */}
-  <div style={{ display: 'flex', gap: 6, alignItems: 'center' }}>
+  <div style={{ display: 'flex', gap: 6, alignItems: 'center', zIndex: 10 }}>
     {['Python', 'React', 'SQL', 'MongoDB'].map(function(tag) {
       return (
         <div key={tag} style={{
@@ -60,12 +96,12 @@
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/linkedin-icon.png"
   text="LinkedIn"
-  backgroundColor="#21262d"
+  backgroundColor="#000000"
   width={110}
   height={32}
   gradientStops={[
-    { offset: '0%', color: '#30363d' },
-    { offset: '100%', color: '#21262d' },
+    { offset: '0%', color: '#1d4ed8' },
+    { offset: '100%', color: '#1e3a8a' },
   ]}
 />
 ```
@@ -74,12 +110,12 @@
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/gmail-icon.svg"
   text="Email"
-  backgroundColor="#21262d"
+  backgroundColor="#000000"
   width={100}
   height={32}
   gradientStops={[
-    { offset: '0%', color: '#30363d' },
-    { offset: '100%', color: '#21262d' },
+    { offset: '0%', color: '#b91c1c' },
+    { offset: '100%', color: '#7f1d1d' },
   ]}
 />
 ```
@@ -88,12 +124,12 @@
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/kaggle-icon.svg"
   text="Kaggle"
-  backgroundColor="#21262d"
+  backgroundColor="#000000"
   width={105}
   height={32}
   gradientStops={[
-    { offset: '0%', color: '#30363d' },
-    { offset: '100%', color: '#21262d' },
+    { offset: '0%', color: '#0369a1' },
+    { offset: '100%', color: '#0c4a6e' },
   ]}
 />
 ```
@@ -102,12 +138,12 @@
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/blogger-icon.svg"
   text="Blog"
-  backgroundColor="#21262d"
+  backgroundColor="#000000"
   width={100}
   height={32}
   gradientStops={[
-    { offset: '0%', color: '#30363d' },
-    { offset: '100%', color: '#21262d' },
+    { offset: '0%', color: '#c2410c' },
+    { offset: '100%', color: '#7c2d12' },
   ]}
 />
 ```
