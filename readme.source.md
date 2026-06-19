@@ -110,11 +110,11 @@
   {/* Center/Info: Name, Bio, Stats and Tags */}
   <div style={{ display: 'flex', flexDirection: 'column', gap: 6, flexGrow: 1, zIndex: 10 }}>
     <div style={{ display: 'flex', fontSize: 32, fontWeight: 800, color: '#ffffff', letterSpacing: '-1px', lineHeight: 1 }}>
-      {github.user.name || github.user.login || 'Vidhya Walke'}
+      Vidhya Walke
     </div>
     
     <div style={{ display: 'flex', fontSize: 14, color: 'rgba(180,165,255,0.85)', fontWeight: 400, letterSpacing: '0.3px' }}>
-      {github.user.bio || 'Data Science Graduate &bull; MERN Stack Developer &bull; Data Analytics Enthusiast'}
+      M.Sc. Data Science Graduate &bull; MERN Stack Developer &bull; Data Analytics Enthusiast
     </div>
 
     {/* Elegant compact stats and tags list */}
@@ -143,58 +143,70 @@
 </div>
 ```
 
-```aura width=110 height=32 link="https://linkedin.com/in/vidhyawalke" inline align=center
+```aura width=120 height=44 link="https://linkedin.com/in/vidhyawalke" inline align=center
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/linkedin-icon.png"
   text="LinkedIn"
   backgroundColor="#000000"
-  width={110}
-  height={32}
+  width={120}
+  height={44}
   gradientStops={[
-    { offset: '0%', color: '#1d4ed8' },
-    { offset: '100%', color: '#1e3a8a' },
+    { offset: '0%', color: '#818cf8' },
+    { offset: '30%', color: '#000000' },
+    { offset: '60%', color: '#9298f8' },
+    { offset: '80%', color: '#000000' },
+    { offset: '100%', color: '#7479f5' },
   ]}
 />
 ```
 
-```aura width=100 height=32 link="mailto:vidhya.walke.official@gmail.com" inline align=center
+```aura width=110 height=44 link="mailto:vidhya.walke.official@gmail.com" inline align=center
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/gmail-icon.svg"
   text="Email"
   backgroundColor="#000000"
-  width={100}
-  height={32}
+  width={110}
+  height={44}
   gradientStops={[
-    { offset: '0%', color: '#b91c1c' },
-    { offset: '100%', color: '#7f1d1d' },
+    { offset: '0%', color: '#d855f7' },
+    { offset: '30%', color: '#000000' },
+    { offset: '60%', color: '#b557e8' },
+    { offset: '80%', color: '#000000' },
+    { offset: '100%', color: '#cc6ef9' },
   ]}
 />
 ```
 
-```aura width=105 height=32 link="https://www.kaggle.com/vidhyaw" inline align=center
+```aura width=120 height=44 link="https://www.kaggle.com/vidhyaw" inline align=center
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/kaggle-icon.svg"
   text="Kaggle"
   backgroundColor="#000000"
-  width={105}
-  height={32}
+  width={120}
+  height={44}
   gradientStops={[
-    { offset: '0%', color: '#0369a1' },
-    { offset: '100%', color: '#0c4a6e' },
+    { offset: '0%', color: '#5dc8f9' },
+    { offset: '30%', color: '#000000' },
+    { offset: '60%', color: '#7dd3fc' },
+    { offset: '80%', color: '#000000' },
+    { offset: '100%', color: '#4ec3f8' },
   ]}
 />
 ```
 
-```aura width=100 height=32 link="https://vidhyawalke.blogspot.com/" inline align=center
+```aura width=110 height=44 link="https://vidhyawalke.blogspot.com/" inline align=center
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/blogger-icon.svg"
   text="Blog"
   backgroundColor="#000000"
-  width={100}
-  height={32}
+  width={110}
+  height={44}
   gradientStops={[
-    { offset: '0%', color: '#c2410c' },
-    { offset: '100%', color: '#7c2d12' },
+    { offset: '0%', color: '#f472b6' },
+    { offset: '30%', color: '#000000' },
+    { offset: '60%', color: '#fb7eb8' },
+    { offset: '80%', color: '#000000' },
+    { offset: '100%', color: '#f06aae' },
   ]}
 />
 ```
