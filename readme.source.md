@@ -167,24 +167,7 @@
 </div>
 ```
 
-```aura width=122 height=44 link="https://vidhyawalke.blogspot.com/" inline align=center
-<div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', padding: '0 6px' }}>
-  <SocialMediaButton
-    icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/blogger-icon.svg"
-    text="Blog"
-    backgroundColor="#000000"
-    width={110}
-    height={44}
-    gradientStops={[
-      { offset: '0%', color: '#f472b6' },
-      { offset: '30%', color: '#000000' },
-      { offset: '60%', color: '#fb7eb8' },
-      { offset: '80%', color: '#000000' },
-      { offset: '100%', color: '#f06aae' },
-    ]}
-  />
-</div>
-```
+
 
 ---
 
@@ -242,7 +225,7 @@ Pinned repositories below cover ML pipelines, data analysis notebooks, and full-
 
 ## Let's Connect
 
-[LinkedIn](https://linkedin.com/in/vidhyawalke) &nbsp;·&nbsp; [Email](mailto:vidhya.walke.official@gmail.com) &nbsp;·&nbsp; [Kaggle](https://www.kaggle.com/vidhyawalke) &nbsp;·&nbsp; [Blog](https://vidhyawalke.blogspot.com/)
+[LinkedIn](https://linkedin.com/in/vidhyawalke) &nbsp;·&nbsp; [Email](mailto:vidhya.walke.official@gmail.com) &nbsp;·&nbsp; [Kaggle](https://www.kaggle.com/vidhyawalke)
 
 
 ---
