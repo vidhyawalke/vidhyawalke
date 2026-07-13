@@ -8,9 +8,23 @@
 
 ## About Me
 
-I hold a BCA and recently completed my M.Sc. in Data Science. I build web applications using the MERN stack, and I enjoy integrating machine learning models with functional user interfaces.
+BCA + M.Sc. Data Science. I work across the full stack — from wiring up REST APIs and databases to building the interfaces people actually interact with. Most of what I build sits at the intersection of web development and data, whether that's connecting ML models to a React frontend or designing clean backend systems that don't fall apart under pressure.
 
-Right now, I am focused on backend development, data structures, and algorithms. Check out my pinned repositories below to see my work.
+I care a lot about code that's readable, systems that make sense, and products that feel considered — not just functional. Git-based collaboration is second nature to me, and I pick up new tools fast when the problem calls for it.
+
+***
+
+## 💭 How I Think About Building
+
+*"Getting something to work is step one. Getting it to work well — cleanly, thoughtfully, and without making future-you want to cry — that's the actual job."*
+
+A few things I genuinely care about:
+
+* **Purpose over padding** — If a line of code doesn't earn its place, it doesn't belong there
+* **Build for people, not for specs** — The best technical solution is the one users don't have to think about
+* **Iteration beats perfection** — The first version is supposed to be rough; what matters is how fast you learn from it
+* **Write it down** — Code without context is just a riddle waiting to frustrate someone (usually yourself, six months later)
+* **AI is a collaborator, not a shortcut** — It's most useful when you already know what you're trying to do
 
 ***
 
@@ -37,11 +51,12 @@ Check out my pinned repositories below; they cover machine learning pipelines, d
 
 ***
 
-## Currently Working On
+## Right Now
 
-* Real-world ML and data analytics projects
-* Full-stack applications using the MERN stack
-* Data Structures and Algorithms
+* Shipping AI-integrated web apps with a focus on real, measurable impact
+* Getting deeper into React architecture and scalable state management
+* Tightening up backend design — performance, structure, and long-term maintainability
+* DSA practice (consistent, not occasional)
 
 ***
 
