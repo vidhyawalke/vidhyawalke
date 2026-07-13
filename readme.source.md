@@ -181,6 +181,16 @@ I'm a full-stack developer with a background in data science. I build applicatio
 🔹 **Clean Code Mindset** — Modular, readable, and documented so it stays maintainable  
 🔹 **Fast Learner** — Quick to get comfortable with new tools and frameworks
 
+## What I Work With
+
+**Data Science & ML**
+`Python` · `NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `LightGBM` · `Power BI` · `MySQL` · `MongoDB`
+
+**Full-Stack Web Development (MERN)**
+`MongoDB` · `Express.js` · `React` · `Node.js` · `HTML` · `CSS` · `JavaScript`
+
+**Tools & Platforms**
+`Git` · `GitHub` · `VS Code` · `Kaggle` · `Jupyter Notebook`
 
 ## 💭 How I Think About Building
 
@@ -194,16 +204,6 @@ A few things I genuinely care about:
 - **Write it down** — code without context is just a riddle waiting to frustrate someone (usually yourself, six months later)
 - **AI as a tool, not a crutch** — most useful when you already know what you're trying to do
 
-## What I Work With
-
-**Data Science & ML**
-`Python` · `NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `LightGBM` · `Power BI` · `MySQL` · `MongoDB`
-
-**Full-Stack Web Development (MERN)**
-`MongoDB` · `Express.js` · `React` · `Node.js` · `HTML` · `CSS` · `JavaScript`
-
-**Tools & Platforms**
-`Git` · `GitHub` · `VS Code` · `Kaggle` · `Jupyter Notebook`
 
 ## Featured Work
 
