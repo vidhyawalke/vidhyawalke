@@ -16,7 +16,6 @@ Full-stack developer with an M.Sc. in Data Science. Most of my work sits where w
 🔹 **Clean Code Mindset** · Modular, readable, and documented so it stays maintainable\
 🔹 **Fast Learner** · New stack, new tool? I figure it out quickly
 
-
 ## 💭 How I Think About Building
 
 *"Getting something to work is step one. Getting it to work well — cleanly, thoughtfully, and without making future-you want to cry — that's the actual job."*
