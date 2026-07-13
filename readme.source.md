@@ -190,9 +190,15 @@
 
 ## About Me
 
-I'm a MERN stack developer with an M.Sc. in Data Science, and most of my work lives somewhere between web development and data. I like building things that are actually useful — whether that's wiring an ML model into a web app, setting up a backend that holds up properly, or making sure the frontend doesn't make people want to close the tab.
+MERN stack developer with an M.Sc. in Data Science. Most of my work sits where web development meets data — whether that's connecting an ML model to a live web app, building backend systems that don't fall apart, or making sure the frontend is something people actually want to use.
 
-I pick up new tools quickly, write code I won't be embarrassed by later, and work well in team settings through Git-based workflows. Open to entry-level roles in data analytics, data science, or full-stack development, and also happy to take on freelance or open-source work.
+🔹 **Full-Stack Developer** · MERN stack from database design to React UI
+🔹 **Data Science Graduate** · ML pipelines, analytics, EDA, and predictive modelling
+🔹 **AI Integration** · Connecting machine learning to real, working web applications
+🔹 **Clean Code Mindset** · Modular, readable, and documented so it stays maintainable
+🔹 **Fast Learner** · New stack, new tool — I figure things out quickly
+
+Open to entry-level roles in data analytics, data science, or full-stack development. Also up for freelance and open-source work.
 
 ## 💭 How I Think About Building
 
