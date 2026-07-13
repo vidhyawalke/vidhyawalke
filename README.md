@@ -54,7 +54,7 @@ Pinned repositories below cover ML pipelines, data analysis notebooks, and full-
 
 ## Let's Connect
 
-[LinkedIn](https://linkedin.com/in/vidhyawalke)  ·  [Email](mailto:vidhya.walke.official@gmail.com)  ·  [Kaggle](https://www.kaggle.com/vidhyawalke)  ·  [Blog](https://vidhyawalke.blogspot.com/)
+[LinkedIn](https://linkedin.com/in/vidhyawalke)  ·  [Email](mailto:vidhya.walke.official@gmail.com)  ·  [Kaggle](https://www.kaggle.com/vidhyawalke)  ·  [Blog](https://vidhyawalke.blogspot.com/)
 
 ***
 
