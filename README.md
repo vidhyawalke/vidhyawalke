@@ -16,7 +16,6 @@ MERN stack developer with an M.Sc. in Data Science. Most of my work sits where w
 * 🔹 **Clean Code Mindset** · Modular, readable, and documented so it stays maintainable
 * 🔹 **Fast Learner** · New stack, new tool? I figure it out quickly
 
-Open to entry-level roles in data analytics, data science, or full-stack development. Also up for freelance and open-source work.
 
 ## 💭 How I Think About Building
 
