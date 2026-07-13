@@ -252,6 +252,12 @@ Entry-level roles in Data Analytics, Data Science, or Full-Stack Development. Al
 
 [LinkedIn](https://linkedin.com/in/vidhyawalke) &nbsp;·&nbsp; [Email](mailto:vidhya.walke.official@gmail.com) &nbsp;·&nbsp; [Kaggle](https://www.kaggle.com/vidhyawalke) &nbsp;·&nbsp; [Blog](https://vidhyawalke.blogspot.com/)
 
+
 ---
+
+<p align="center">
+  🌟 If something here was useful or interesting, a star on the repo means a lot.<br/>
+  🤝 Up for freelance work, open-source collabs, or full-time roles — feel free to reach out.
+</p>
 
 <p align="center"><i>"Building today to become better than yesterday."</i></p>
