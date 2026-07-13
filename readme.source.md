@@ -173,7 +173,7 @@
 
 ## About Me
 
-Full-stack developer with an M.Sc. in Data Science. Most of my work sits where web development meets data. It could be connecting an ML model to a live web app, setting up a backend that holds up, or making a frontend people actually enjoy using.
+I'm a full-stack developer with a background in data science, and I build AI-powered web applications. My focus is on making things that work well and feel good to use — not just technically correct, but actually useful to the people using them.
 
 🔹 **Full-Stack Developer** · Frontend to backend, whatever the stack needs  
 🔹 **Data Science Graduate** · ML pipelines, analytics, EDA, and predictive modelling  
