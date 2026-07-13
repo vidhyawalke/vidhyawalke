@@ -39,7 +39,6 @@ A few things I genuinely care about:
 * **Write it down** — code without context is just a riddle waiting to frustrate someone (usually yourself, six months later)
 * **AI as a tool, not a crutch** — most useful when you already know what you're trying to do
 
-
 ## Featured Work
 
 Pinned repositories below cover ML pipelines, data analysis notebooks, and full-stack apps.
