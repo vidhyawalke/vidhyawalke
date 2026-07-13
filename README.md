@@ -8,11 +8,9 @@
 
 ## About Me
 
-BCA + M.Sc. Data Science. I work across the full stack — from wiring up REST APIs and databases to building the interfaces people actually interact with. Most of what I build sits at the intersection of web development and data, whether that's connecting ML models to a React frontend or designing clean backend systems that don't fall apart under pressure.
+I'm a MERN stack developer with an M.Sc. in Data Science, and most of my work lives somewhere between web development and data. I like building things that are actually useful — whether that's wiring an ML model into a web app, setting up a backend that holds up properly, or making sure the frontend doesn't make people want to close the tab.
 
-I care a lot about code that's readable, systems that make sense, and products that feel considered — not just functional. Git-based collaboration is second nature to me, and I pick up new tools fast when the problem calls for it.
-
-***
+I pick up new tools quickly, write code I won't be embarrassed by later, and work well in team settings through Git-based workflows. Open to entry-level roles in data analytics, data science, or full-stack development, and also happy to take on freelance or open-source work.
 
 ## 💭 How I Think About Building
 
@@ -20,13 +18,11 @@ I care a lot about code that's readable, systems that make sense, and products t
 
 A few things I genuinely care about:
 
-* **Purpose over padding** — If a line of code doesn't earn its place, it doesn't belong there
-* **Build for people, not for specs** — The best technical solution is the one users don't have to think about
-* **Iteration beats perfection** — The first version is supposed to be rough; what matters is how fast you learn from it
-* **Write it down** — Code without context is just a riddle waiting to frustrate someone (usually yourself, six months later)
-* **AI is a collaborator, not a shortcut** — It's most useful when you already know what you're trying to do
-
-***
+* **Purpose over padding** — if a line of code doesn't earn its place, it doesn't belong there
+* **Build for people, not specs** — the best solution is the one users don't have to think about
+* **Iteration over perfection** — the first version is supposed to be rough; what matters is how fast you learn from it
+* **Write it down** — code without context is just a riddle waiting to frustrate someone (usually yourself, six months later)
+* **AI as a tool, not a crutch** — most useful when you already know what you're trying to do
 
 ## What I Work With
 
@@ -39,17 +35,13 @@ A few things I genuinely care about:
 **Tools & Platforms**
 `Git` · `GitHub` · `VS Code` · `Kaggle` · `Jupyter Notebook`
 
-***
-
 ## Featured Work
 
-Check out my pinned repositories below; they cover machine learning pipelines, data analysis notebooks, and full-stack apps.
+Pinned repositories below cover ML pipelines, data analysis notebooks, and full-stack apps.
 
 * **ML Projects**: Classification and prediction pipelines with model evaluation
 * **Data Analytics**: EDA and visualization notebooks, also published on [Kaggle](https://www.kaggle.com/vidhyaw)
 * **MERN Apps**: Full-stack web applications built with MongoDB, Express, React, and Node.js
-
-***
 
 ## Right Now
 
@@ -60,15 +52,9 @@ Check out my pinned repositories below; they cover machine learning pipelines, d
 
 ***
 
-## Open To
-
-Entry-level roles in Data Analytics, Data Science, or Full-Stack Development. Also open to freelance, remote, and open-source work.
-
-***
-
 ## Let's Connect
 
-[LinkedIn](https://linkedin.com/in/vidhyawalke)  ·  [Email](mailto:vidhya.walke.official@gmail.com)  ·  [Kaggle](https://www.kaggle.com/vidhyawalke)  ·  [Blog](https://vidhyawalke.blogspot.com/)
+[LinkedIn](https://linkedin.com/in/vidhyawalke)  ·  [Email](mailto:vidhya.walke.official@gmail.com)  ·  [Kaggle](https://www.kaggle.com/vidhyawalke)  ·  [Blog](https://vidhyawalke.blogspot.com/)
 
 ***
 
