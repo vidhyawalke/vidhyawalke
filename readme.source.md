@@ -173,7 +173,7 @@
 
 ## About Me
 
-I'm a full-stack developer with a background in data science, and I build AI-powered web applications. My focus is on making things that work well and feel good to use — not just technically correct, but actually useful to the people using them.
+I'm a full-stack developer with a background in data science, and I build AI-powered web applications. I work across web technologies and AI integration to build solutions that are solid technically and actually worth using.
 
 🔹 **Full-Stack Developer** · Frontend to backend, whatever the stack needs  
 🔹 **Data Science Graduate** · ML pipelines, analytics, EDA, and predictive modelling  
