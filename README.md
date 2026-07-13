@@ -14,7 +14,7 @@ I'm a full-stack developer with a background in data science. I build applicatio
 🔹 **Data Science Graduate** · ML pipelines, analytics, EDA, and predictive modelling\
 🔹 **AI Integration** · Connecting machine learning to real, working web applications\
 🔹 **Clean Code Mindset** · Modular, readable, and documented so it stays maintainable\
-🔹 **Fast Learner** · New stack, new tool? I figure it out quickly
+🔹 **Fast Learner** · Quick to get comfortable with new tools and frameworks
 
 ## 💭 How I Think About Building
 
