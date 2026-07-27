@@ -167,6 +167,25 @@
 </div>
 ```
 
+```aura width=142 height=44 link="https://leetcode.com/u/vidhyawalke/" inline align=center
+<div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', padding: '0 6px' }}>
+  <SocialMediaButton
+    icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/leetcode-icon.svg"
+    text="LeetCode"
+    backgroundColor="#000000"
+    width={130}
+    height={44}
+    gradientStops={[
+      { offset: '0%', color: '#ffa116' },
+      { offset: '30%', color: '#000000' },
+      { offset: '60%', color: '#ffb800' },
+      { offset: '80%', color: '#000000' },
+      { offset: '100%', color: '#f89b14' },
+    ]}
+  />
+</div>
+```
+
 
 
 ---
@@ -190,7 +209,7 @@ I'm a full-stack developer with a background in data science. I build applicatio
 `MongoDB` · `Express.js` · `React` · `Node.js` · `HTML` · `CSS` · `JavaScript`
 
 **Tools & Platforms**
-`Git` · `GitHub` · `VS Code` · `Kaggle` · `Jupyter Notebook`
+`Git` · `GitHub` · `VS Code` · `Kaggle` · `LeetCode` · `Jupyter Notebook`
 
 ## 💭 How I Think About Building
 
@@ -224,7 +243,7 @@ Pinned repositories below cover ML pipelines, data analysis notebooks, and full-
 
 ## Let's Connect
 
-[LinkedIn](https://linkedin.com/in/vidhyawalke) &nbsp;·&nbsp; [Email](mailto:vidhya.walke.official@gmail.com) &nbsp;·&nbsp; [Kaggle](https://www.kaggle.com/vidhyawalke)
+[LinkedIn](https://linkedin.com/in/vidhyawalke) &nbsp;·&nbsp; [Email](mailto:vidhya.walke.official@gmail.com) &nbsp;·&nbsp; [Kaggle](https://www.kaggle.com/vidhyawalke) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/vidhyawalke/)
 
 
 ---
