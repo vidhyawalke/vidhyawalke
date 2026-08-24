@@ -113,7 +113,7 @@
 ```aura width=142 height=44 link="https://vidhya-walke-portfolio.vercel.app/" inline align=center
 <div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', padding: '0 6px' }}>
   <SocialMediaButton
-    icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/portfolio-icon.svg"
+    icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/portfolio-icon.svg?v=2"
     text="Portfolio"
     backgroundColor="#000000"
     width={130}

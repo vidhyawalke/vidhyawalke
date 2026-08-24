@@ -6,6 +6,7 @@ on:
     paths:
       - 'readme.source.md'
       - '.github/workflows/readme-aura.yml'
+      - 'icons/**'
   schedule:
     - cron: '0 6 * * *'
   workflow_dispatch:
