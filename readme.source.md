@@ -110,6 +110,25 @@
 </div>
 ```
 
+```aura width=142 height=44 link="https://vidhya-walke-portfolio.vercel.app/" inline align=center
+<div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', padding: '0 6px' }}>
+  <SocialMediaButton
+    icon="https://raw.githubusercontent.com/vidhyawalke/vidhyawalke/main/icons/portfolio-icon.svg"
+    text="Portfolio"
+    backgroundColor="#000000"
+    width={130}
+    height={44}
+    gradientStops={[
+      { offset: '0%', color: '#2dd4bf' },
+      { offset: '30%', color: '#000000' },
+      { offset: '60%', color: '#34d399' },
+      { offset: '80%', color: '#000000' },
+      { offset: '100%', color: '#10b981' },
+    ]}
+  />
+</div>
+```
+
 ```aura width=132 height=44 link="https://linkedin.com/in/vidhyawalke" inline align=center
 <div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', padding: '0 6px' }}>
   <SocialMediaButton
@@ -243,7 +262,7 @@ Pinned repositories below cover ML pipelines, data analysis notebooks, and full-
 
 ## Let's Connect
 
-[LinkedIn](https://linkedin.com/in/vidhyawalke) &nbsp;·&nbsp; [Email](mailto:vidhya.walke.official@gmail.com) &nbsp;·&nbsp; [Kaggle](https://www.kaggle.com/vidhyawalke) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/vidhyawalke/)
+[Portfolio](https://vidhya-walke-portfolio.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/vidhyawalke) &nbsp;·&nbsp; [Email](mailto:vidhya.walke.official@gmail.com) &nbsp;·&nbsp; [Kaggle](https://www.kaggle.com/vidhyawalke) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/vidhyawalke/)
 
 
 ---
