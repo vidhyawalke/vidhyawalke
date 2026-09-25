@@ -12,11 +12,11 @@ I’m a full-stack developer with a data science background. I enjoy building we
 
 **I’m especially interested in:**
 
-- Machine learning and predictive modeling
-- Applied AI, including RAG
-- Data visualization
-- Full-stack web development
-- Recommendation systems
+* Machine learning and predictive modeling
+* Applied AI, including RAG
+* Data visualization
+* Full-stack web development
+* Recommendation systems
 
 ## Collaboration
 
