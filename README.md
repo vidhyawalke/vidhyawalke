@@ -24,6 +24,6 @@ I like sharing ideas, learning from others, and working together to build useful
 
 ## Skills
 
-* **Development:** JavaScript, React, Node.js, Express, MongoDB, HTML, CSS
-* **Data & ML:** Python, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, LightGBM, Power BI, MySQL
-* **Tools:** Git, GitHub, Jupyter Notebook
+- **Programming:** Python, SQL, JavaScript
+- **Web:** React, Node.js
+- **Data science:** Machine learning, data visualization, recommendation systems
