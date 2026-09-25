@@ -14,9 +14,9 @@ I’m a full-stack developer with a data science background. I enjoy building we
 
 I like sharing ideas, learning from others, and working together to build useful things. I’m always open to connecting on thoughtful projects and collaborations.
 
-## Interests
+## Areas of Interest
 
-I’m interested in using machine learning and predictive analytics to find patterns and solve real-world problems. I also enjoy data storytelling and exploring how generative AI can help build useful apps.
+`Machine Learning` · `Applied AI & RAG` · `Predictive Modeling` · `Data Visualization` · `Full-Stack Web` · `Recommendation Systems`
 
 ## Skills
 

@@ -102,10 +102,6 @@
     <div style={{ display: 'flex', fontSize: 32, fontWeight: 800, color: '#ffffff', letterSpacing: '-1px', lineHeight: 1 }}>
       Vidhya Walke
     </div>
-    
-    <div style={{ display: 'flex', fontSize: 14, color: 'rgba(180,165,255,0.85)', fontWeight: 400, letterSpacing: '0.3px' }}>
-      BCA & M.Sc. Data Science Graduate &bull; MERN Stack Developer &bull; Data Analytics Enthusiast
-    </div>
   </div>
 </div>
 ```
@@ -217,9 +213,9 @@ I’m a full-stack developer with a data science background. I enjoy building we
 
 I like sharing ideas, learning from others, and working together to build useful things. I’m always open to connecting on thoughtful projects and collaborations.
 
-## Interests
+## Areas of Interest
 
-I’m interested in using machine learning and predictive analytics to find patterns and solve real-world problems. I also enjoy data storytelling and exploring how generative AI can help build useful apps.
+`Machine Learning` · `Applied AI & RAG` · `Predictive Modeling` · `Data Visualization` · `Full-Stack Web` · `Recommendation Systems`
 
 ## Skills
 
