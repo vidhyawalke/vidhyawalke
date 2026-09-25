@@ -1,4 +1,4 @@
-```aura width=860 height=180
+```aura width=760 height=140
 <div style={{
   width: '100%', height: '100%', background: '#08080c',
   display: 'flex', alignItems: 'center', fontFamily: 'Inter',
@@ -45,7 +45,7 @@
     `}
   </style>
 
-  <svg width="860" height="180" style={{ position: 'absolute', top: 0, left: 0, pointerEvents: 'none' }}>
+  <svg width="760" height="140" style={{ position: 'absolute', top: 0, left: 0, pointerEvents: 'none' }}>
     <defs>
       <radialGradient id="g1" cx="50%" cy="50%" r="50%">
         <stop offset="0%" stopColor="rgba(110,20,210,0.72)" />
@@ -97,10 +97,13 @@
     <ellipse id="glow-8" cx="590" cy="200" rx="150" ry="100" fill="url(#g8)" />
   </svg>
 
-  {/* Center/Info: Name and Bio only (No stats or tags strip) */}
-  <div style={{ display: 'flex', flexDirection: 'column', gap: 6, flexGrow: 1, zIndex: 10 }}>
-    <div style={{ display: 'flex', fontSize: 32, fontWeight: 800, color: '#ffffff', letterSpacing: '-1px', lineHeight: 1 }}>
+  {/* Name and subtitle */}
+  <div style={{ display: 'flex', flexDirection: 'column', gap: 5, flexGrow: 1, zIndex: 10 }}>
+    <div style={{ display: 'flex', fontSize: 28, fontWeight: 800, color: '#ffffff', letterSpacing: '-0.7px', lineHeight: 1 }}>
       Vidhya Walke
+    </div>
+    <div style={{ display: 'flex', fontSize: 11, color: 'rgba(210,205,255,0.82)', fontWeight: 500, letterSpacing: '0.8px' }}>
+      M.Sc. DATA SCIENCE GRADUATE · GOA, INDIA
     </div>
   </div>
 </div>
