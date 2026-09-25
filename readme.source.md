@@ -209,4 +209,20 @@
 
 ---
 
-Full-stack developer with a data science background, building web apps and data projects.
+## About Me
+
+I’m a full-stack developer with a data science background. I enjoy building web apps and turning data into practical, easy-to-understand insights.
+
+## Collaboration
+
+I like sharing ideas, learning from others, and working together to build useful things. I’m always open to connecting on thoughtful projects and collaborations.
+
+## Interests
+
+I’m curious about machine learning, data storytelling, AI-powered apps, and the math behind data science. I also enjoy sharpening my problem-solving skills on Kaggle and LeetCode.
+
+## Skills
+
+- **Development:** JavaScript, React, Node.js, Express, MongoDB, HTML, CSS
+- **Data & ML:** Python, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, LightGBM, Power BI, MySQL
+- **Tools:** Git, GitHub, Jupyter Notebook
