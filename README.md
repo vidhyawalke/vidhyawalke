@@ -10,13 +10,17 @@
 
 I’m a full-stack developer with a data science background. I enjoy building web apps and turning data into practical, easy-to-understand insights.
 
+**I’m especially interested in:**
+
+- Machine learning and predictive modeling
+- Applied AI, including RAG
+- Data visualization
+- Full-stack web development
+- Recommendation systems
+
 ## Collaboration
 
 I like sharing ideas, learning from others, and working together to build useful things. I’m always open to connecting on thoughtful projects and collaborations.
-
-## Areas of Interest
-
-`Machine Learning` · `Applied AI & RAG` · `Predictive Modeling` · `Data Visualization` · `Full-Stack Web` · `Recommendation Systems`
 
 ## Skills
 
