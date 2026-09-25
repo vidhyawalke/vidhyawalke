@@ -16,7 +16,7 @@ I like sharing ideas, learning from others, and working together to build useful
 
 ## Interests
 
-I’m curious about machine learning, data storytelling, AI-powered apps, and the math behind data science. I also enjoy sharpening my problem-solving skills on Kaggle and LeetCode.
+I’m interested in using machine learning and predictive analytics to find patterns and solve real-world problems. I also enjoy data storytelling and exploring how generative AI can help build useful apps.
 
 ## Skills
 
