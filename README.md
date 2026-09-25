@@ -20,6 +20,6 @@ I’m curious about machine learning, data storytelling, AI-powered apps, and th
 
 ## Skills
 
-- **Development:** JavaScript, React, Node.js, Express, MongoDB, HTML, CSS
-- **Data & ML:** Python, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, LightGBM, Power BI, MySQL
-- **Tools:** Git, GitHub, Jupyter Notebook
+* **Development:** JavaScript, React, Node.js, Express, MongoDB, HTML, CSS
+* **Data & ML:** Python, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, LightGBM, Power BI, MySQL
+* **Tools:** Git, GitHub, Jupyter Notebook
