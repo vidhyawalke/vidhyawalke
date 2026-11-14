@@ -2,16 +2,16 @@
 
 # Vidhya Walke
 
-**M.Sc. in Data Science** &middot; Goa Business School, Goa University  
-*Full Stack Developer &bull; Machine Learning &bull; RAG Applications*
-
-<p align="center">
-<a href="https://vidhya-walke-portfolio.vercel.app/"><img src="./.github/assets/readme-aura-component-1-e5f1804c.svg" width="142" height="44" alt="Portfolio" /></a><a href="https://linkedin.com/in/vidhyawalke"><img src="./.github/assets/readme-aura-component-2-06b5da42.svg" width="132" height="44" alt="LinkedIn" /></a><a href="mailto:vidhya.walke.official@gmail.com"><img src="./.github/assets/readme-aura-component-3-30338b8b.svg" width="122" height="44" alt="Email" /></a><a href="https://www.kaggle.com/vidhyaw"><img src="./.github/assets/readme-aura-component-4-248f7e7e.svg" width="132" height="44" alt="Kaggle" /></a><a href="https://leetcode.com/u/vidhyawalke/"><img src="./.github/assets/readme-aura-component-5-e7d0bd0c.svg" width="142" height="44" alt="LeetCode" /></a>
-</p>
+**M.Sc. in Data Science** · Goa Business School, Goa University\
+*Full Stack Developer • Machine Learning • RAG Applications*
 
 </div>
 
----
+<p align="center">
+<a href="https://vidhya-walke-portfolio.vercel.app/"><img src="./.github/assets/readme-aura-component-0-e5f1804c.svg" width="142" height="44" /></a><a href="https://linkedin.com/in/vidhyawalke"><img src="./.github/assets/readme-aura-component-1-06b5da42.svg" width="132" height="44" /></a><a href="mailto:vidhya.walke.official@gmail.com"><img src="./.github/assets/readme-aura-component-2-30338b8b.svg" width="122" height="44" /></a><a href="https://www.kaggle.com/vidhyaw"><img src="./.github/assets/readme-aura-component-3-248f7e7e.svg" width="132" height="44" /></a><a href="https://leetcode.com/u/vidhyawalke/"><img src="./.github/assets/readme-aura-component-4-e7d0bd0c.svg" width="142" height="44" /></a>
+</p>
+
+***
 
 A Data Science enthusiast & Full Stack Developer passionate about Pythonic programming, applied AI, and building clean web applications.
 
@@ -46,9 +46,9 @@ A Data Science enthusiast & Full Stack Developer passionate about Pythonic progr
 
 I'm always open to discussing new projects, open-source collaborations, or opportunities in data science and software engineering. Feel free to explore my work or get in touch:
 
-- **Portfolio:** [vidhya-walke-portfolio.vercel.app](https://vidhya-walke-portfolio.vercel.app/) — Live demos & project case studies
-- **LinkedIn:** [linkedin.com/in/vidhyawalke](https://www.linkedin.com/in/vidhyawalke) — Professional background & career updates
-- **GitHub:** [github.com/vidhyawalke](https://github.com/vidhyawalke) — Source code, open-source work & repositories
-- **Kaggle:** [kaggle.com/vidhyawalke](https://www.kaggle.com/vidhyawalke) — Data science notebooks & datasets
-- **LeetCode:** [leetcode.com/u/vidhyawalke](https://leetcode.com/u/vidhyawalke/) — Problem solving & algorithmic practice
-- **Email:** [vidhya.walke.official@gmail.com](mailto:vidhya.walke.official@gmail.com) — Direct inquiries & collaboration
+* **Portfolio:** [vidhya-walke-portfolio.vercel.app](https://vidhya-walke-portfolio.vercel.app/) — Live demos & project case studies
+* **LinkedIn:** [linkedin.com/in/vidhyawalke](https://www.linkedin.com/in/vidhyawalke) — Professional background & career updates
+* **GitHub:** [github.com/vidhyawalke](https://github.com/vidhyawalke) — Source code, open-source work & repositories
+* **Kaggle:** [kaggle.com/vidhyawalke](https://www.kaggle.com/vidhyawalke) — Data science notebooks & datasets
+* **LeetCode:** [leetcode.com/u/vidhyawalke](https://leetcode.com/u/vidhyawalke/) — Problem solving & algorithmic practice
+* **Email:** <vidhya.walke.official@gmail.com> — Direct inquiries & collaboration
