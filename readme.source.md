@@ -210,62 +210,37 @@
 
 # Vidhya Walke
 
-Full-stack developer with a background in data science (M.Sc. Data Science, Goa University). I build end-to-end web applications, machine learning systems, and retrieval-augmented generation (RAG) pipelines.
+A Data Science enthusiast & Full Stack Developer passionate about Pythonic programming, applied AI, and building clean web applications. M.Sc. Data Science graduate from Goa Business School, Goa University.
 
-- **Applied AI & Machine Learning:** LLM applications, semantic search with FAISS and LangChain, and predictive modeling.
-- **Full-Stack Development:** Modern, responsive web applications built with React, Node.js, FastAPI, and clean UI components.
-- **Data Analytics & Visualization:** Exploratory data analysis, statistical modeling, recommendation systems, and interactive Tableau dashboards.
-
----
-
-## Featured Projects
-
-### [RAG PDF Knowledge Assistant](https://github.com/vidhyawalke/rag-pdf-knowledge-assistant)
-AI-powered document assistant that indexes PDFs into dense vector chunks using FAISS cosine similarity and queries Google Gemini asynchronously via FastAPI with page citations for grounded responses.
-- **Tech Stack:** Python, FastAPI, FAISS, Google Gemini API, LangChain
-- **Repository:** [github.com/vidhyawalke/rag-pdf-knowledge-assistant](https://github.com/vidhyawalke/rag-pdf-knowledge-assistant)
-
-### [CO–PO Correlation Assessment Tool](https://github.com/vidhyawalke/co-po-mapper)
-Curriculum mapping tool that automates Course Outcome (CO) to Program Outcome (PO) attainment matrices from raw student exam marks, generating NAAC-compliant accreditation audit reports.
-- **Tech Stack:** React, Zustand, SheetJS, Tailwind CSS, JavaScript
-- **Repository:** [github.com/vidhyawalke/co-po-mapper](https://github.com/vidhyawalke/co-po-mapper)
-
-### [Customer Segmentation Prediction App](https://github.com/vidhyawalke/customer-segmentations-kmeans-app)
-Production-ready machine learning web app operationalizing unsupervised customer segmentation with PyCaret and K-Means clustering, featuring real-time demographic inference.
-- **Tech Stack:** Python, PyCaret, Streamlit, Scikit-Learn, Pandas
-- **Repository:** [github.com/vidhyawalke/customer-segmentations-kmeans-app](https://github.com/vidhyawalke/customer-segmentations-kmeans-app)
-
-### [Spam Email Classification Model](https://github.com/vidhyawalke/spam-email-classification)
-End-to-end NLP and deep learning classification system comparing classical ML models with ANN and LSTM recurrent architectures, deployed in Streamlit with 99.2% accuracy.
-- **Tech Stack:** Python, Streamlit, LSTM, ANN, TF-IDF, NLP, Scikit-Learn
-- **Repository:** [github.com/vidhyawalke/spam-email-classification](https://github.com/vidhyawalke/spam-email-classification)
-
-### [Goodreads Web Scraping Pipeline](https://github.com/vidhyawalke/goodreads-web-scraping)
-Automated data extraction pipeline crawling and parsing multi-page Goodreads catalogs using throttled HTTP requests and Selenium to export clean tabular datasets for exploratory analysis.
-- **Tech Stack:** Python, BeautifulSoup, Selenium, Requests, Pandas
-- **Repository:** [github.com/vidhyawalke/goodreads-web-scraping](https://github.com/vidhyawalke/goodreads-web-scraping)
-
-### [Movie Recommendation System](https://github.com/vidhyawalke/Movie-Recommendation-System-in-Python)
-Personalized recommendation engine on 100,000 MovieLens ratings implementing collaborative filtering and Matrix Factorization (SVD) to address data sparsity and generate top-N recommendations.
-- **Tech Stack:** Python, Collaborative Filtering, SVD, Scikit-Learn, Pandas
-- **Repository:** [github.com/vidhyawalke/Movie-Recommendation-System-in-Python](https://github.com/vidhyawalke/Movie-Recommendation-System-in-Python)
+- 🔭 **Currently working on:** RAG applications, semantic search systems, and reactive web apps.
+- 🌱 **Learning & exploring:** Deep neural networks, LLM workflows, and modern recommendation architectures.
+- 👯 **Looking to collaborate on:** Data science, machine learning, and open-source software projects.
+- 💬 **Ask me about:** Python, Machine Learning, RAG, React, FastAPI, or SQL.
+- ⚡ **Fun facts:** Passionate [bibliophile](https://en.wikipedia.org/wiki/Bibliophilia) — and you know you're a programmer when you spend hours tracking down a bug and fix it with one line of code!
 
 ---
 
-## Technical Skills
+### Featured Projects
+
+- [**RAG PDF Knowledge Assistant**](https://github.com/vidhyawalke/rag-pdf-knowledge-assistant) — Semantic search and grounded Q&A over PDFs using FAISS and Google Gemini. `Python` `FastAPI` `FAISS` `LangChain`
+- [**CO–PO Assessment Tool**](https://github.com/vidhyawalke/co-po-mapper) — Curriculum mapping web app calculating NAAC-compliant accreditation attainment matrices. `React` `Zustand` `TailwindCSS`
+- [**Customer Segmentation App**](https://github.com/vidhyawalke/customer-segmentations-kmeans-app) — Real-time KMeans customer clustering app with demographic breakdowns. `Python` `Streamlit` `Scikit-Learn`
+- [**Spam Email Classifier**](https://github.com/vidhyawalke/spam-email-classification) — Comparative NLP email spam detection comparing classical ML and LSTM. `Python` `Streamlit` `Deep Learning`
+- [**Goodreads Book Scraper**](https://github.com/vidhyawalke/goodreads-web-scraping) — Automated data extraction pipeline crawling and parsing multi-page book catalogs. `Python` `Selenium` `BeautifulSoup`
+
+---
+
+### Tech Stack
 
 - **Languages:** Python, SQL, JavaScript (ES6+), HTML5, CSS3, R
-- **Data Science & AI:** Machine Learning, Retrieval-Augmented Generation (RAG), Deep Learning (ANN, LSTM), NLP, Recommendation Systems, FAISS, Scikit-Learn, PyCaret, Pandas, NumPy
-- **Web & Backend:** React, Node.js, FastAPI, Flask, Streamlit, REST APIs, Tailwind CSS, Vite
-- **Tools & Platforms:** Git, GitHub, Tableau, Docker, Jupyter Notebook, Google Search Console
+- **Data Science & AI:** Machine Learning, RAG, Deep Learning (ANN/LSTM), NLP, FAISS, Scikit-Learn, PyCaret, Pandas, NumPy
+- **Web & Backend:** React, Node.js, FastAPI, Flask, Streamlit, Tailwind CSS
+- **Tools & Platforms:** Git, GitHub, Tableau, Docker, Jupyter Notebook
 
 ---
 
-## Connect
+### Connect
 
-- **Portfolio:** [vidhya-walke-portfolio.vercel.app](https://vidhya-walke-portfolio.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/vidhyawalke](https://www.linkedin.com/in/vidhyawalke)
-- **GitHub:** [github.com/vidhyawalke](https://github.com/vidhyawalke)
-- **Kaggle:** [kaggle.com/vidhyawalke](https://www.kaggle.com/vidhyawalke)
-- **LeetCode:** [leetcode.com/u/vidhyawalke](https://leetcode.com/u/vidhyawalke/)
-- **Email:** [vidhya.walke.official@gmail.com](mailto:vidhya.walke.official@gmail.com)
+Feel free to explore my repositories, open an issue, or reach out:
+
+[Portfolio](https://vidhya-walke-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vidhyawalke) · [GitHub](https://github.com/vidhyawalke) · [Kaggle](https://www.kaggle.com/vidhyawalke) · [LeetCode](https://leetcode.com/u/vidhyawalke/) · [Email](mailto:vidhya.walke.official@gmail.com)
